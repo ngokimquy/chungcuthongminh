@@ -1,0 +1,19 @@
+* 16/6/2018: nhung muc tiu phai lam.
+1) tao mot function cong don 9 phan tu lai thanh mot cai mang;
+-- dung ham push cong tat ca phan tu lai ;
+2) tao ra function truyen nhan data esp vs server
+
+
+3) function truyen nhan data server va thiet bi mot cach thanh thuc
+-- 1) server gui data xuong thiet bi 
+    2) thiet bi gui data len server
+    3) giao dien phai ok 
+    4) update dan nhung tin nang;
+4) ping tin hieu server vs esp8266 de phat hien nhung thiet bi nao song hay chet;
+-- dung mot function 1) set toan bo ve che do cho phan hoi 
+                    2) gui tin nhan cho tat ca cac thiet bi
+                    3) nhan data tat ca thiet bi gui ve 
+                    4) update vao co so du lieu 
+                    5) sau do scan tim rar tat ca nhung id nao ma ko co data gui ve thi gui mot data cho nhung id ma cho tin hieu tu no
+
+
